@@ -97,12 +97,6 @@ Parameters:
 
 [6]  Mondrian Anonymisation (https://github.com/qiyuangong/Mondrian)
 
-### Support
-
-- You can post bug reports and feature requests at the [Issue Page](https://github.com/qiyuangong/Mondrian/issues).
-- Contributions via [Pull request](https://github.com/qiyuangong/Mondrian/pulls) is welcome.
-- Also, you can contact me via [email](mailto:qiyuangong@gmail.com).
-
 ==========================
 
 by Nitin Kamboj
