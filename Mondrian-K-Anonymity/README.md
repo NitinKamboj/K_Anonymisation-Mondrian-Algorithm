@@ -44,7 +44,7 @@ Why using kd-tree? Because it is fast, straight-forward and sufficient.
 <img src=https://cloud.githubusercontent.com/assets/3848789/25949051/c6a87622-3688-11e7-8bd0-726f07245570.png width=750>
 </p>
 <p align="center">
-Figure 2. Basic workflow of Modnrian
+Figure 2. Basic workflow of Mondrian
 </p>
 
 <p align="center">
@@ -56,11 +56,11 @@ Figure 3. kd-tree
 
 
 ### Usage and Parameters:
-The Implementation is based on Python 3 and compatible with python 2.7. You can run Mondrian in following steps:
+The Implementation is based on **Python 3.7.3 64Bit Architecture**. You can run Mondrian in following steps:
 
 1) Download (or clone) the whole project.
 
-2) Run `anonymized.py` in root dir with CLI.
+2) Run `anonymized.py` in root dir with CLI or IDLE.
 
 3) Get the anonymized dataset from `data/anonymized.data`, if you didn't add `[k | qi | data]`.
 
@@ -95,6 +95,8 @@ Parameters:
 
 [5] Y. He, J. F. Naughton, Anonymization of set-valued data via top-down, local generalization. Proceedings of VLDB, 2009, 2, 934-945
 
+[6]  Mondrian Anonymisation (https://github.com/qiyuangong/Mondrian)
+
 ### Support
 
 - You can post bug reports and feature requests at the [Issue Page](https://github.com/qiyuangong/Mondrian/issues).
@@ -103,12 +105,10 @@ Parameters:
 
 ==========================
 
-by [Qiyuan Gong](mailto:qiyuangong@gmail.com)
+by Nitin Kamboj
+nitin.kamboj@gmail.com
+24/April/2019
 
-2017-5-23
 
 
-### Contributor List 🏆
-* [Qiyuan Gong](mailto:qiyuangong@gmail.com)
-* [Liu Kun](https://github.com/build2last)
 
